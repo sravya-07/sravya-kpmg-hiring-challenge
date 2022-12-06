@@ -14,4 +14,7 @@ problem statement:
     A quick read to help you along the way - We would expect it in any other language apart from elixir.
 
 Answer:
- The code is in python to retrieve the nested key from a given mapping
+    The python code to retrieve nested values is in get_values.py. To run the code use the following command:
+    ```bash
+       python get_values.py
+    ```
